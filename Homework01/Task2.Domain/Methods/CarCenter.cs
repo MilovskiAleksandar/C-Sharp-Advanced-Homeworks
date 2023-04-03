@@ -41,7 +41,7 @@ namespace Task2.Domain.Methods
 
         public bool FixVehicle()
         {
-            Console.WriteLine("Your can needs to be fixed!");
+            Console.WriteLine("Your car needs to be fixed!");
             return false;
         }
 
